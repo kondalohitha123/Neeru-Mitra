@@ -1,0 +1,14 @@
+district,lat,lon,population,groundwater_depth_m,reservoir_pct,normal_rain_30d_mm,data_quality
+Hyderabad,17.3850,78.4867,3900000,10.6,20,18,gw_oct2026
+Medchal-Malkajgiri,17.6300,78.4800,2450000,12.7,20,18,gw_oct2026
+Rangareddy,17.2500,78.2000,2430000,12.5,30,18,gw_estimate
+Sangareddy,17.6247,78.0867,1520000,11.5,25,18,gw_estimate
+Medak,18.0453,78.2608,770000,13.3,25,20,gw_jun2026
+Vikarabad,17.3380,77.9040,930000,13.5,30,18,gw_oct2026
+Nizamabad,18.6725,78.0941,1570000,8.5,35,20,gw_estimate
+Karimnagar,18.4386,79.1288,1000000,8.9,35,20,gw_jun2026
+Warangal,17.9689,79.5941,800000,8.5,35,20,gw_estimate
+Khammam,17.2473,80.1514,1400000,4.3,45,22,gw_oct2026
+Nalgonda,17.0575,79.2684,1600000,9.0,30,20,gw_estimate
+Mahabubnagar,16.7488,77.9855,1500000,9.5,30,18,gw_estimate
+Adilabad,19.6640,78.5320,700000,10.3,40,22,gw_jun2026
