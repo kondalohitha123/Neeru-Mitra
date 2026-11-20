@@ -72,7 +72,7 @@ left, right = st.columns(2)
 with left:
     st.subheader("Stress map")
     st.map(result.rename(columns={"lon": "longitude", "lat": "latitude"}),
-           latitude="latitude", longitude="longitude", size=15000)
+           latitude="latitude", longitude="longitude", size=15000, zoom=6)
 with right:
     st.subheader("Water Stress Score by district")
     st.bar_chart(result.set_index("district")["stress"])
