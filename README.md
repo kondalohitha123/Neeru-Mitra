@@ -2,15 +2,10 @@
 
 IDEA//FORGE Online Hackathon | Track 2: Climate, Resource Infrastructure & Global Supply Resilience (Problem 3: Smart Resource Allocation)
 
-**Live app:** [add your Streamlit link here after deployment]
-
-![Neeru Mitra dashboard](screenshot.png)
+**Live app:** https://neeru-mitra.streamlit.app/
 
 ## Problem
-[Write 3-4 sentences in your own words. Cover: Telangana's weak monsoon and falling
-groundwater this year; that tanker supply is decided mostly by complaints and
-protests; that citizens and district officials have no single view of how bad each
-district is.]
+Telangana’s monsoon was weak this year, and groundwater has dropped sharply. The state’s average water table is about 2 m deeper than a year ago, and Hyderabad and Medchal-Malkajgiri have fallen by several metres. Households, hostels, farmers and apartment residents in the worst-hit districts are facing shortages, and district and HMWSSB officials must decide where to send a limited number of tankers. Today those decisions are largely reactive and driven by complaints, and officials have no single view that combines rainfall, heat, groundwater and reservoir data. As a result, some areas wait too long while others may receive more than they need, and the dry months are still ahead.
 
 **Who faces it:** households, hostels, farmers and apartment residents in water-stressed
 Telangana districts, and the district and HMWSSB officials who must ration limited
