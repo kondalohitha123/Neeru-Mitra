@@ -10,7 +10,7 @@ from src.weather import fetch_weather
 st.set_page_config(page_title="Neeru Mitra", page_icon="💧", layout="wide")
 st.title("💧 Neeru Mitra: Telangana Water Stress Advisor")
 st.caption(
-    "IDEA//FORGE | Track 2: Climate, Resource Infrastructure & Supply Resilience. "
+
     "Weather is live (Open-Meteo). Groundwater is from Telangana Groundwater Dept reports "
     "where tagged; reservoir levels and some districts are ESTIMATES."
 )
